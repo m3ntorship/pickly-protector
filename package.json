@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "oAuth2 protector for pickly services based on firebase authentication",
   "engines": {
-    "node": ">= 12.13 <13"
+    "node": ">= 12.13"
   },
   "main": "build/src/main.js",
   "devDependencies": {
